@@ -1,2 +1,0 @@
-# React-App
-Weather App
